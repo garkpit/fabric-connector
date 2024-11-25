@@ -13,6 +13,9 @@ main.spec
 # Optional: Ignore .DS_Store files on macOS
 .DS_Store
 
+# I don't think we need this
+__pycache__/
+
 # Optional: Ignore IDE-specific files
 # .vscode/
 # .idea/
